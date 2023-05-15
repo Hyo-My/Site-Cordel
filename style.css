@@ -53,6 +53,7 @@ section.imagem {
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.69);
     color: white;
     background-attachment: fixed;
+    background-size: cover;
 }
 
 section#img1 {
